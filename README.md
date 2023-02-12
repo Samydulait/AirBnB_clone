@@ -172,4 +172,4 @@ The recognizable commands by the interpreter are the following:
 
 Negol-Sam Gilles Bertin | Github: [Samydulait](mailto:Samydulait@github.com) 
 
- | Github: [](mailto:)
+ Shittu Monsuru | Github: [Shittu48](mailto:Shittu48@github.com)
